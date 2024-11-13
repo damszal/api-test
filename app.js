@@ -1,1 +1,3 @@
-console.log(EXAMPLE_KYE)
+const apiKey = process.env.EXAMPLE_KEY;
+
+console.log(apiKey)
