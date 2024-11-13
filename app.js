@@ -1,3 +1,2 @@
-const apiKey = process.env.EXAMPLE_KEY;
-
-console.log(apiKey)
+const apiKey = window.EXAMPLE_KEY;
+console.log("Twój klucz API:", apiKey);
